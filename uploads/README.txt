@@ -1,0 +1,1 @@
+La carpeta uploads debe crearse antes para que se pueda mover al destino.
